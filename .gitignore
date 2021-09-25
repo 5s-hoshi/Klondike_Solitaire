@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+
+# data
+KlondikeSolve20201201/data/
